@@ -7,7 +7,7 @@ Updated by: Takuya Mouri
 import torch
 from torch.autograd import Function
 from ..box_utils import decode, nms
-from data import voc as cfg
+from data import cram as cfg
 
 
 class Detect(Function):
