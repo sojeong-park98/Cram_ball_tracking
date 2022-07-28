@@ -18,4 +18,4 @@ conda install --yes --file requirements.txt
 
 <실행>
 
-python main.py [--cuda] [--input <directory>]
+python main.py [--cuda] [--input \<directory\>]
